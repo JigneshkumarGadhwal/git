@@ -1,2 +1,2 @@
 print("This is initial commit!")
-print("Change:3")
+print("Change:0")

@@ -1,3 +1,3 @@
 print("This is initial config.")
-print("Change:3")
+print("Change:0")
 
